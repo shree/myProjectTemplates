@@ -1,0 +1,5 @@
+*.sh
+node_modules
+connect.js
+.DS_Store
+build/*
